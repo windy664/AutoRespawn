@@ -1,0 +1,4 @@
+name: AutoRespawn
+version: '1.0-SNAPSHOT'
+main: org.windy.autoRespawn.AutoRespawn
+api-version: '1.20'
